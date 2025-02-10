@@ -8,11 +8,9 @@
 This project is a deep learning model for **Dog Breed Identification** based on images. The dataset comes from the Kaggle competition [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification), where the task is to classify images into 120 different dog breeds.  
 
 ## 🚀 Features  
-- Pretrained CNN models (ResNet, EfficientNet, VGG, etc.)  
+- Pretrained CNN models (MobilenetV2)  
 - Image preprocessing and augmentation  
-- Transfer learning with fine-tuning  
-- Evaluation metrics (accuracy, precision, recall)  
-- Flask web app for real-time prediction (optional)  
+- Transfer learning with fine-tuning    
 
 ## 📂 Dataset  
 - 📥 Download: [Kaggle Dataset](https://www.kaggle.com/c/dog-breed-identification/data)  
